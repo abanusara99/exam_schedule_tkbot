@@ -1,0 +1,5 @@
+C21PG143CSC015	Kala	 1st Msc computer science	        08-12-2000
+C21PG143CSC016	Lavanya	 1st Msc computer science	        18-11-1999
+C21PG143CSC019	Mathi	 1st Msc computer science	        13-01-2000
+CSKG001	        Naina	  Biology 1 st year || Bio 1st year	06--01-2001
+CSKG002	        Hina Bai  Geology 2 st year| Geo 2st year	09-07-2001
